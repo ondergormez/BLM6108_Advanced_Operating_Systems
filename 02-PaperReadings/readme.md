@@ -10,6 +10,7 @@ Regarding the papers;
 - [x] [Paper 03: Communicating Sequential Processes](Paper_03.md)
 - [x] [Paper 04: Monitors: An Operating System Structuring Concept](Paper_04.md)
 - [x] [Paper 05: Experience with Processes and Monitors in Mesa](Paper_05.md)
+- [x] [Paper 06: Process Migration in DEMOS/MP](Paper_06.md)
 
 ## Paper Links
 - [Paper 01: A Hardware Architecture for Implementing Protection Rings](https://online.yildiz.edu.tr/upload/ytu/Evaluation/e949a2a6-e21e-4850-b620-2d1ac8325a9e.pdf)
@@ -17,3 +18,4 @@ Regarding the papers;
 - [Paper 03: Communicating Sequential Processes](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 - [Paper 04: Monitors: An Operating System Structuring Concept](https://dl.acm.org/doi/pdf/10.1145/355620.361161)
 - [Paper 05: Experience with Processes and Monitors in Mesa](https://people.eecs.berkeley.edu/~brewer/cs262/Mesa.pdf)
+- [Paper 06: Process Migration in DEMOS/MP](https://dl.acm.org/doi/pdf/10.1145/773379.806619)
