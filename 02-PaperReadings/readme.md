@@ -12,6 +12,7 @@ Regarding the papers;
 - [x] [Paper 05: Experience with Processes and Monitors in Mesa](Paper_05.md)
 - [x] [Paper 06: Process Migration in DEMOS/MP](Paper_06.md)
 - [x] [Paper 07: Task Communication in DEMOS](Paper_07.md)
+- [x] [Paper 08: The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System](Paper_08.md)
 
 ## Paper Links
 - [Paper 01: A Hardware Architecture for Implementing Protection Rings](https://online.yildiz.edu.tr/upload/ytu/Evaluation/e949a2a6-e21e-4850-b620-2d1ac8325a9e.pdf)
@@ -21,3 +22,4 @@ Regarding the papers;
 - [Paper 05: Experience with Processes and Monitors in Mesa](https://people.eecs.berkeley.edu/~brewer/cs262/Mesa.pdf)
 - [Paper 06: Process Migration in DEMOS/MP](https://dl.acm.org/doi/pdf/10.1145/773379.806619)
 - [Paper 07: Task Communication in DEMOS](https://dl.acm.org/doi/pdf/10.1145/800214.806544)
+- [Paper 08: The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System](https://dl.acm.org/doi/pdf/10.1145/37499.37507)
