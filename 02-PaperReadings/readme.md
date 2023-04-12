@@ -9,10 +9,10 @@ Regarding the papers;
 - [x] [Paper 02: Practical, transparent operating system support for superpages](Paper_02.md)
 - [x] [Paper 03: Communicating Sequential Processes](Paper_03.md)
 - [x] [Paper 04: Monitors: An Operating System Structuring Concept](Paper_04.md)
-- [x] [Paper 05: Experience with Processes and Monitors in Mesa](Paper_05.md)
+- [ ] [Paper 05: Experience with Processes and Monitors in Mesa](Paper_05.md)
 - [x] [Paper 06: Process Migration in DEMOS/MP](Paper_06.md)
 - [x] [Paper 07: Task Communication in DEMOS](Paper_07.md)
-- [x] [Paper 08: The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System](Paper_08.md)
+- [ ] [Paper 08: The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System](Paper_08.md)
 - [x] [Paper 09: First-Class User-Level Threads](Paper_09.md)
 
 ## Paper Links
