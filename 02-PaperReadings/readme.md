@@ -14,6 +14,7 @@ Regarding the papers;
 - [x] [Paper 07: Task Communication in DEMOS](Paper_07.md)
 - [ ] [Paper 08: The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System](Paper_08.md)
 - [x] [Paper 09: First-Class User-Level Threads](Paper_09.md)
+- [ ] [Paper 10: Memory Resource Management in VMware ESX Server](Paper_10.md)
 
 ## Paper Links
 - [Paper 01: A Hardware Architecture for Implementing Protection Rings](https://online.yildiz.edu.tr/upload/ytu/Evaluation/e949a2a6-e21e-4850-b620-2d1ac8325a9e.pdf)
@@ -25,3 +26,4 @@ Regarding the papers;
 - [Paper 07: Task Communication in DEMOS](https://dl.acm.org/doi/pdf/10.1145/800214.806544)
 - [Paper 08: The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System](https://dl.acm.org/doi/pdf/10.1145/37499.37507)
 - [Paper 09: First-Class User-Level Threads](https://dl.acm.org/doi/pdf/10.1145/121132.344329)
+- [Paper 10: Memory Resource Management in VMware ESX Server](https://www.vmware.com/pdf/usenix_resource_mgmt.pdf)
