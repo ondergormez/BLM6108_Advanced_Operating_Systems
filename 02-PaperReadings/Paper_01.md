@@ -53,7 +53,7 @@ Multics
 
 * Multics, Honeywell 645 bilgisayar sistemlerinde implemente edilmiş.
 * 645 yazılımı protection ring leri implemente etmeye zorlayarak temel bir segmente edilmiş sanal bellek (virtual memory) yapısı oluşturmuş.
-* Honeywell 6000 serisi ise protection ring lerin neredeyse tamammını donanımsal olarak implemente etmiş.
+* Honeywell 6000 serisi ise protection ring lerin neredeyse tamamını donanımsal olarak implemente etmiş.
 
 **Bir bilgisayar programı için 4 kriter**;
 * Functional capability
@@ -64,10 +64,10 @@ Multics
 ## Controlling Access in a Segmented Virtual Memory
 
 * Kullanıcılar sisteme giriş yaptığında, kullanıcı için özel olarak sanal bellek oluşturulur. Kullanıcılar yapıtıkları işlemleri bu bellekler üzerinde yaparlar.
-* A kullanıcısı kendi sahip oldu sanal bellekteki bir alana B kullanıcısının erişmesini isteyebilir. Bunu özel olarak hazırladığı programlar vasıtasıyla gerçekleştirir.
+* A kullanıcısı kendi sahip olduğu sanal bellekteki bir alana B kullanıcısının erişmesini isteyebilir. Bunu özel olarak hazırladığı programlar vasıtasıyla gerçekleştirir.
 
 # Deneysel çalışmalarda ne elde edilmiş?
-Bir process ile ilişkili olabilecek domain sayısını kısıtlamışlar. Bunu problemin zorluğunu azaltmak ve 4 kritere uyabilmek için trade-off yapmışlar. Sonuç olarak protection ring ler çıkmış.
+Bir process ile ilişkili olabilecek domain sayısını kısıtlamışlar. Bunu problemin zorluğunu azaltmak ve 4 kritere uyabilmek için trade-off olarak yapmışlar. Sonuç olarak protection ring ler çıkmış.
 
 # Neyi, ne kadar çözmüş?
 

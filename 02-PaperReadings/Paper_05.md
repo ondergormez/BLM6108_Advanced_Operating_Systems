@@ -28,7 +28,7 @@ Ad Soyad: Önder Görmez
 # Amacı nedir?
 
 Makelede ortaya attıkları çözümlerin aşağıdaki amaçlarla kullanılmasını hedeflemişler;
-* **Local concurrent programming**: Birden çok process birbirleri ile haberleşerek bir programı sorunsuzça oluşturabileceklerdir.
+* **Local concurrent programming**: Birden çok process birbirleri ile haberleşerek bir programı sorunsuzca oluşturabileceklerdir.
 * **Global resource sharing**: Birbirinden bağımsız programlar aynı kaynakları birbirlerini etkilemeden kullanabileceklerdir.
 * **Replacing interrupts**: Interrupt lar üzerinden dallanma yapmak yerine ilgili process in diret uyandırılarak çalıştırılmasını sağlayacak şekilde düzenlemeler yapılması.
 
@@ -45,7 +45,7 @@ Dijkstra, Hoare ve Brinch Hansen monitor ü icat etmişler. Fakat yaptığı ça
 
 # Neyi, ne kadar çözmüş?
 
-Mesa da aşağıdaki problemleri çözmeye odaklanmış ve çözmüş;
+Mesa daki, aşağıdaki problemleri çözmeye odaklanmış ve çözmüş;
 * İç içe monitör çağrıları
 * WAIT çağrılarının anlamının tanımlanması ve netleştirilmesi
 * Öncelikli çizelgeleme (priority scheduling)

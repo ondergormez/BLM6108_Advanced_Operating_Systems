@@ -32,7 +32,7 @@ PTE: Page Table Entry
 #  Deneysel çalışmalarda ne elde edilmiş?
 
 * Superpage boyutları çok çok arttırılırsa bu durumda da kullanılmadığı halde programlar hafızada daha fazla yer kaplamaya ve daha çok memory ihtiyacı duymaya başlayacaktır.
-* Birden fazla page size ı yönetmek daha zor olacağı için birçok işletim sistemi hiç superpage i desteklememeyi veya çok az desteklemeyi seçmişlerdir.
+* Birden fazla page size ı yönetmek daha zor olacağı için birçok işletim sistemi hiç superpage i desteklememeyi veya çok az desteklemeyi seçmiştir.
 * Page size lar processor üreticisine bağımlı olduğu için farklı processor ler için farklı boyutlar seçilmeli. Bu da işletim sistemi tasarımında dikkate alınması gereken karmaşıklaştırıcı bir faktör olmuştur.
 
 #  Neyi, ne kadar çözmüş?
@@ -54,6 +54,6 @@ Population map aşağıdaki gibi kullanılır;
 
 # Conclusion
 
-* Superpage ler aslında boyutu arttırlmış fiziksel page lerdir. Böylelikle tasarlanan sistemlerin TLB coverage ları artmaktadır.
+* Superpage ler aslında boyutu arttırılmış fiziksel page lerdir. Böylelikle tasarlanan sistemlerin TLB coverage ları artmaktadır.
 * TLB miss ler azalmaktadır. Böylelikle uygulama performanslarının artması beklenmektedir.
 * %30 ile %60 arası performans artışı olabileceği gözlemlenmiştir.

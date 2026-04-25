@@ -22,14 +22,14 @@ Ad Soyad: Önder Görmez
 
 # Hangi konu ile alakalı?
 
-* Process lerin girdilerden ve çıktılardan oluştuğunu ve ardı sıra gelen process lerin birbiri ile haberleştirilerek daha önceki process ler tarafından oluşturulan çıktıların kullanıp devam edebileceğini savunmaktadır. 
+* Process lerin girdilerden ve çıktılardan oluştuğunu ve ardı sıra gelen process lerin birbirleriyle haberleştirilerek daha önceki process ler tarafından oluşturulan çıktıların kullanılıp devam ettirilebileceğini savunmaktadır. 
 * Paralel komutların işlenmesi üzerine çalışmalar yapılmıştır.
 * Birçok senkronizasyon gerektiren örnek üzerinden bu işlemlerin nasıl yapılacağı ile ilgili bilgiler vermiş.
-* Veri yapılarında değinilen **Edsger W. Dijkstra** nın birçok makalesin atıfta bulunmuş.
+* Veri yapılarında değinilen **Edsger W. Dijkstra** nın birçok makalesine atıfta bulunmuş.
 
 # Amacı nedir?
 
-* Amaç birden fazla işlemcisi olan makinelerde işlemcilerin arasındaki senkronizasyon ve birlikte çalışması için haberleşmesi problemlerine bir çözüm önerisi sunmak.
+* Amaç birden fazla işlemcisi olan makinelerde, işlemciler arasındaki senkronizasyon ve birlikte çalışmak için haberleşmesi problemlerine bir çözüm önerisi sunmak.
 
 **Makaleden Alıntı**: three basic constructs;
 * A repetitive construct (e.g. the while loop),

@@ -7,7 +7,7 @@ Ad Soyad: Önder Görmez
 
 * Forest Baskett, John H. Howard ve John T. Montague tarafından yayınlanmış.
 * Adres: Los Alamos Scientific Laboratory Los Alamos, New Mexico 87545
-* Yayınlanma Yeri: Proceedings of Sixth ACM Symposium on Operatlng Systems Principles (November 1977) 23-31.
+* Yayınlanma Yeri: Proceedings of Sixth ACM Symposium on Operating Systems Principles (November 1977) 23-31.
 
 # Hangi konu ile alakalı?
 
@@ -41,7 +41,7 @@ DEMOS dakinin message system e daha yakın olduğunu söylüyor.
 * Reply
 * General
 
-Reply link leri reply message ları için sadece 1 kez kullanılabilen linklerdir. Kullanımı sonrasında destroy edilirler.
+Reply link leri reply mesajları için sadece 1 kez kullanılabilen linklerdir. Kullanımı sonrasında destroy edilirler.
 
 3 tane mesaj tipi mevcut;
 * Request

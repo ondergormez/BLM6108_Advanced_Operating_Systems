@@ -35,7 +35,7 @@ User level thread leri temsil etmek için kernel seviyesi proseslerin kullanılm
 * Poor performance: kernel space e girip çıkmanın oluşturduğu kayıp
 sorunları ortaya çıkmıştır.
 
-nedeniyle vazgeçilmiştir.
+nedenlerinden dolayı vazgeçilmiştir.
 
 # Deneysel çalışmalarda ne elde edilmiş?
 
